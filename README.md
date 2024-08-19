@@ -1,6 +1,3 @@
-# FastClusterPatcher
- A Workaround for a FastCluster induced slowdowns, moving attached parts outside of the humanoid models
-
 <div align="center">
 <h1 align="center">FastClusterPatcher</h1>
   <p align="center">
