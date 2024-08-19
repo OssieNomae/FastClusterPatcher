@@ -21,12 +21,12 @@ local FastClusterPatcher = require(PATH_TO_THE_MODULE)
 ## Usage
 please refer to the [Documentation 🖱️](https://github.com/OssieNomae/FastClusterPatcher/wiki#documentation)
 
-## Information about Roblox FastCluster engine issue
+## Roblox FastCluster engine issue
 [Devforum Engine Bug report (2021)](https://devforum.roblox.com/t/updateinvalidatedfastclustersupdateentity-triggers-on-character-descendant-part-property-changes-causing-spikes/1444216)
 
 <br />
 <p>
-  <a href=""><img src="images/response.gif" alt="Roblox staff response" align="center"></a>
+  <a href=""><img src="images/response.png" alt="Roblox staff response" align="center"></a>
 </p>
 
 
