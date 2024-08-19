@@ -32,7 +32,7 @@
 	< Example Usage >
 	
 	local TestRig = workspace.TestRig
-	local EntityTracker = Module.new(TestRig)
+	local Patcher = Module.new(TestRig)
 	
 	local TestPart = Instance.new("Part")
 	local Weld = Instance.new("Weld")
@@ -40,9 +40,9 @@
 	Weld.Part1 = TestRig.Head
 	Weld.Parent = TestRig.Head
 
-	EntityTracker:Add(TestPart)
+	Patcher:Add(TestPart)
 	
-	Note: This should only be done on the clientside, it is not necessary to do for the local character
+	Note: FastClusterPatcher should only be used on the client, it is not necessary to use it for the local character
 --]]
 --!strict
 
